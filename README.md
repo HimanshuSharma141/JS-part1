@@ -1,0 +1,1 @@
+Practice of the javaScript.
